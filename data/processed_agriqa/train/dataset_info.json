@@ -1,0 +1,38 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "agri_qa",
+  "dataset_size": 61034832,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/shchoi83/agriQA@bf60d8a6e0fca3f0f01d7865b7d68d167ba445b7/new_file_non.csv": {
+      "num_bytes": 59789874,
+      "checksum": null
+    }
+  },
+  "download_size": 59789874,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 120824706,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 61034832,
+      "num_examples": 174930,
+      "dataset_name": "agri_qa"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

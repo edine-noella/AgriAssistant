@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "response": "The capital city of France is Paris."
+  },
+  {
+    "question": "How do I fix a bug in a Python script?",
+    "response": "spray rogor @ 2 ml per litre of water"
+  },
+  {
+    "question": "What stocks should I invest in this year?",
+    "response": "recommended to invest in the following stocks:\n1. j&k bank\n2. nationalised banks\n3. insurance companies\n4. metal sector\n5. power sector\n6. pharmaceutical sector\n7. food processing sector\n8. real estate sector\n9. telecom sector"
+  },
+  {
+    "question": "Can you write me a poem about the ocean?",
+    "response": "answer is yes, he has written many poems about the ocean."
+  }
+]

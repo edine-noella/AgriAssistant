@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the signs of nitrogen deficiency in maize crops?",
+    "response": "1. Yellowing or wilting of leaves\n2. Thinning of plant\n3. Decrease in yield\n4. Decrease in production per plant"
+  },
+  {
+    "question": "How do I control fall armyworm organically?",
+    "response": "advised to spray malathion 50 ec @ 2ml/lit of water. also suggested to collect the larvae from the field and spray tricel @ 2ml/lit of water."
+  },
+  {
+    "question": "What is the optimal soil pH for growing tomatoes?",
+    "response": "recommended that the pH of soil should be 7.0-7.5."
+  },
+  {
+    "question": "How does drip irrigation compare to flood irrigation in water-scarce regions?",
+    "response": "drip irrigation is more efficient than flood irrigation as it allows the soil to breathe, which helps in better nutrient availability, less soil compaction, less water loss due to transpiration and higher root growth."
+  },
+  {
+    "question": "What are the benefits of crop rotation for soil health?",
+    "response": "explain in details."
+  }
+]

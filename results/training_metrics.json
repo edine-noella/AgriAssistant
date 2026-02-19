@@ -1,0 +1,14 @@
+{
+  "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "dataset": "ashraq/agri-qa",
+  "lora_rank": 16,
+  "lora_alpha": 32,
+  "learning_rate": 0.0002,
+  "epochs": 2,
+  "effective_batch_size": 16,
+  "training_time_minutes": 49.01,
+  "final_train_loss": 0.5459,
+  "trainable_params": 12615680,
+  "total_params": 628221952,
+  "trainable_ratio_pct": 2.0082
+}

@@ -1,0 +1,6 @@
+Metric,Base Model,Fine-tuned,Change
+ROUGE-1,0.0474,0.3533,+30.6%
+ROUGE-2,0.0034,0.2011,+19.8%
+ROUGE-L,0.0388,0.3466,+30.8%
+BLEU,0.0018,0.2066,+20.5%
+Perplexity,77.97,22.60,71.0% lower
