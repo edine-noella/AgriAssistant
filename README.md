@@ -12,8 +12,6 @@ Built on **TinyLlama-1.1B-Chat-v1.0**, it is fine-tuned using **QLoRA** (4-bit q
 on the **AgriQA dataset** (`shchoi83/agriQA`) from Hugging Face. The model answers questions on
 crop management, soil health, pest control, irrigation, fertilization, and sustainable farming.
 
-**Live Demo:** https://a645bd3bbde21cf583.gradio.live/
-
 **Demo Video:** https://YOUR_VIDEO_LINK_HERE  
 
 **Colab Notebook:** https://colab.research.google.com/drive/1FPaCRRHxMapKkS6_82rR-fYpvXbOv_5N
@@ -159,7 +157,7 @@ After fine-tuning all metrics exceed the 10% relative improvement threshold by a
 
 ```
 agri-assistant/
-├── AgriAssistant_LLM_FineTuning.ipynb    <- Main notebook (run this)
+├── AgriAssistant_LLM_FineTuning.ipynb    <- Main notebook 
 ├── data/                                 
 ├── models/                               
 ├── results/                             
@@ -170,7 +168,7 @@ agri-assistant/
 After running, Google Drive contains:
 ```
 MyDrive/AgriAssistant/
-├── models/agri-tinyllama-lora/           <- LoRA adapter weights + tokenizer
+├── models/agri-tinyllama-lora/           
 ├── results/
 │   ├── eda_length_distributions.png  
 │   ├── training_curves.png            
