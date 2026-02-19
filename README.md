@@ -13,15 +13,18 @@ on the **AgriQA dataset** (`shchoi83/agriQA`) from Hugging Face. The model answe
 crop management, soil health, pest control, irrigation, fertilization, and sustainable farming.
 
 **Live Demo:** https://a645bd3bbde21cf583.gradio.live/
+
 **Demo Video:** https://YOUR_VIDEO_LINK_HERE  
+
 **Colab Notebook:** https://colab.research.google.com/drive/1FPaCRRHxMapKkS6_82rR-fYpvXbOv_5N
 
 ---
 
 ## Dataset
 
-**Source:** `ashraq/agri-qa` — Hugging Face Datasets Hub  
+**Source:** `shchoi83/agriQA` — Hugging Face Datasets Hub  
 **URL:** https://huggingface.co/datasets/shchoi83/agriQA 
+
 **Domain:** Agriculture — crop cultivation, soil science, pest and disease management,
 irrigation, fertilization, post-harvest handling, and sustainable farming.
 
