@@ -12,7 +12,7 @@ Built on **TinyLlama-1.1B-Chat-v1.0**, it is fine-tuned using **QLoRA** (4-bit q
 on the **AgriQA dataset** (`shchoi83/agriQA`) from Hugging Face. The model answers questions on
 crop management, soil health, pest control, irrigation, fertilization, and sustainable farming.
 
-**Demo Video:** https://YOUR_VIDEO_LINK_HERE  
+**Demo Video:** https://youtu.be/cNFoh3DHmjI 
 
 **Colab Notebook:** https://colab.research.google.com/drive/1FPaCRRHxMapKkS6_82rR-fYpvXbOv_5N
 
@@ -186,7 +186,7 @@ MyDrive/AgriAssistant/
 
 - TinyLlama: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 - AgriQA: https://huggingface.co/datasets/shchoi83/agriQA
-- Hu et al. (2022): LoRA: Low-Rank Adaptation of Large Language Models. ICLR 2022.
-- Dettmers et al. (2023): QLoRA: Efficient Finetuning of Quantized LLMs. NeurIPS 2023.
+- LoRA: Low-Rank Adaptation of Large Language Models. ICLR 2022.
+- QLoRA: Efficient Finetuning of Quantized LLMs. NeurIPS 2023.
 - PEFT library: https://github.com/huggingface/peft
 - TRL library: https://github.com/huggingface/trl
